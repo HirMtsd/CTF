@@ -18,4 +18,4 @@ Platform(Linux)
 https://github.com/HirMtsd/sandbox/blob/master/linux.md
 
 Trainning
-https://github.com/HirMtsd/CTF/edit/main/training.md
+https://github.com/HirMtsd/CTF/blob/main/training.md
