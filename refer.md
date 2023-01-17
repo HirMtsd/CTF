@@ -16,3 +16,11 @@ https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF_Pwn
 CTF CRYPTO攻略法まとめ
 2021/03/20「CTF Crypto」kanata　
 https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF_Crypto
+
+
+GeoGuessr (地理推測)
+https://geohints.com/ : 画像で見つけることができるオブジェクトのさまざまなカテゴリの画像がたくさんあります。
+https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/ : 整理されていませんが、非常に大量の情報が含まれています。 Ctrl+F は確かに役に立ちます
+http://www.worldlicenseplates.com/ :ナンバー プレートのみです。
+https://www.google.com/ : 
+https://geotips.net/ : Another resource made for GeoGuessr 
