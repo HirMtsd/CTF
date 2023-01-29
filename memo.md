@@ -10,3 +10,13 @@ rem 2023/01/29 @HirMtsd
 
 C:\Apps\SysinternalsSuite\Sysmon64.exe -i
 ```
+
+2023/01/29
+EvtxECmd で変換
+
+https://ericzimmerman.github.io/
+
+```bat
+rem evtxファイルをcsvファイルに変換
+EvtxECmd.exe -f sample.evtx --csv ./
+```
