@@ -1,8 +1,9 @@
-・picoCTF (Carnegie Mellon University)
-https://picoctf.org/
+2023/01/29
+Windows用 Sysmonインストール
+```bat
+rem JSAC2023 Workshop2 Sigma 用のLogFile作成ツール Sysmonのインストール手順
+rem 
+rem 2023/01/29 @HirMtsd
 
-・SIGPwny (University of Illinois)
-https://sigpwny.com/newcomer/
-
-・Web Security Academy (PortSwigger : Burp Suite)
-https://portswigger.net/web-security
+C:\Apps\SysinternalsSuite\Sysmon64.exe -i
+```
