@@ -20,3 +20,7 @@ https://ericzimmerman.github.io/
 rem evtxファイルをcsvファイルに変換
 EvtxECmd.exe -f sample.evtx --csv ./
 ```
+
+2023/02/14
+GitLab Page でWriteups
+https://www.gitlab.jp/blog/2020/06/29/how-to-use-gitlab-pages/
