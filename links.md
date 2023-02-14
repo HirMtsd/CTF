@@ -12,3 +12,4 @@
 | 10 | RequestBIN         | https://requestbin.io/ | HTTPリクエストを分析する | WEB問題で使用 |
 | 11 | Pipedream          | https://requestbin.com/ | 上記と同目的の別サイト | WEB問題で使用 |
 | 12 | dCode.fr           | https://www.dcode.fr/ | 各種暗号の解読 | CRYPT問題で使用 |
+| 13 | quipqiup           | http://quipqiup.com/ | 各種暗号の解読 | CRYPT問題で使用 |
