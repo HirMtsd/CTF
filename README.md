@@ -19,3 +19,6 @@ https://github.com/HirMtsd/sandbox/blob/master/linux.md
 
 Trainning
 https://github.com/HirMtsd/CTF/blob/main/training.md
+
+Writeups
+https://github.com/Cla55N0tF0und/ctf-writeups
