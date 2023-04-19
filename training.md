@@ -6,9 +6,15 @@ Training WEB
 | SIGPwny | University of Illinois | https://sigpwny.com/newcomer/ |
 | Web Security Academy | PortSwigger : Burp Suite | https://portswigger.net/web-security |
 | CTF101 | The NYU Tandon School of Engineering | https://ctf101.org/ |
+| NICC Training Courses | New Jersey Institute of Technology | https://njiticc.com/resources/  https://ctf.jerseyctf.com/resources |
+
 
 まとめ総合
-https://blog.hamayanhamayan.com/entry/2023/02/22/085938
+https://blog.hamayanhamayan.com/entry/2023/02/22/ [
+
+](https://njiticc.com/about/) Jersey Institute of Technology | [
+
+](https://njiticc.com/about/)
 https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF
 
 まとめCrypto
