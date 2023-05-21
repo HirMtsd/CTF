@@ -10,14 +10,14 @@ Training WEB
 
 
 まとめ総合
-https://blog.hamayanhamayan.com/entry/2023/02/22/ [
-
-](https://njiticc.com/about/) Jersey Institute of Technology | [
-
-](https://njiticc.com/about/)
-https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF
+| WEB Site | Date | URL |
+|:-- | :-- | :--|
+| 競技セキュリティまとめのまとめ | 2023-02-22 | https://blog.hamayanhamayan.com/entry/2023/02/22/085938 |
+| CTF | | https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF |
 
 まとめCrypto
-https://furutsuki.hatenablog.com/entry/2021/03/16/095021
-https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF_Crypto
+| WEB Site | Date | URL |
+|:-- | :-- | :--|
+| CTF crypto 逆引き | 2021-03-16 | https://furutsuki.hatenablog.com/entry/2021/03/16/095021
+| CTF Crypto | | https://raintrees.net/projects/a-painter-and-a-black-cat/wiki/CTF_Crypto
 
