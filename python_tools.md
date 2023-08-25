@@ -14,3 +14,11 @@ https://pycryptodome.readthedocs.io/
 https://pypi.org/project/pycryptodome/
 
 https://github.com/Legrandin/pycryptodome/
+
+
+## telnetlib3 (telnetlibは3.11でdeprecated)
+https://telnetlib3.readthedocs.io/
+
+https://pypi.org/project/telnetlib3/
+
+https://github.com/jquast/telnetlib3/
