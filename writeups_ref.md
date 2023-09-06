@@ -6,3 +6,5 @@ https://github.com/jackalkarlos/CTF-Writeups-and-Scripts/
 
 
 https://yocchin.hatenablog.com/
+
+https://blog.hamayanhamayan.com/
