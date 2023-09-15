@@ -32,8 +32,14 @@ https://github.com/HirMtsd/CTF/blob/main/OSINT_GeoGuessr.md
 ## Steganography
 https://github.com/HirMtsd/sandbox/blob/master/Steganography.md
 
+## Network
+
+## Forensic
+
 ## Cryptography
 https://github.com/HirMtsd/CTF/blob/main/crypt_memo.md
 https://github.com/HirMtsd/sandbox/blob/master/RSA.md
 
+## WEB
 
+## PWN, Reversing
