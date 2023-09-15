@@ -23,4 +23,5 @@ EvtxECmd.exe -f sample.evtx --csv ./
 
 2023/02/14
 GitLab Page でWriteups
-https://www.gitlab.jp/blog/2020/06/29/how-to-use-gitlab-pages/
+https://www.gitlab.jp/blog/2020/06/29/how-to-use-gitlab-pages/ (2023/09/15リンク切れ)
+https://www.insight-tec.com/tech-blog/cicd/20201119_gitlab/
